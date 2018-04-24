@@ -10,6 +10,8 @@ Related posts & results
 * [part 2](https://steemit.com/cryptocurrency/@mix1009/project-crypto-investing-profit-simulation-from-historical-data-2)
 * [interactive 3d chart](https://mix1009.com/crypto/simulation)
 
+	![Interactive 3d graph](https://mix1009.com/crypto/simulation/cryptoprofit_3d.png)
+
 Requirements
 ------------
 * go
