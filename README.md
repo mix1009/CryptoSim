@@ -18,15 +18,25 @@ Requirements
 
 Installation
 ------------
+> git clone https://github.com/mix1009/CryptoSim
+> cd CryptoSim
+
+    get source from github
+
 > make install-packages
 
     install required go packages
 
 > make
 
+    Build all executables.
+
 > vi config.json
 
     edit config.json and fill database name, user, password.
+
+Running
+-------
 
 > ./download
 
@@ -42,7 +52,7 @@ Installation
 
 > ./simulate > out.csv
 
-    simulate outputs to stdout. save data to out.csv
+    simulate output results to stdout. save data to out.csv
 
 > ./simulate | tee out2.csv
 
